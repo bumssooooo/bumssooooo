@@ -6,6 +6,7 @@
 	
 [![beokim's 42 stats](https://badge42.herokuapp.com/api/stats/beokim)](https://github.com/beokim/badge42)
 
+[![Blog Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://bsbs7605.tistory.com/)](https://bsbs7605.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bsbs7605@gmail.com)](mailto:bsbs7605@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bumssooooo/)](https://www.instagram.com/bumssooooo/)
 
