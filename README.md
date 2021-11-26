@@ -2,7 +2,7 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20BeomsooKim%20%20&height=200&fontSize=100)
   
-🌱 I’m currently learning development of iOS.
+🌱 I’m currently learning development of iOS.  
 👯 I’m looking to collaborate on the application service
   
 [![Blog Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://bsbs7605.tistory.com/)](https://bsbs7605.tistory.com/)
