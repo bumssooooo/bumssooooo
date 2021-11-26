@@ -1,5 +1,7 @@
   <div align=center>
 	
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20BeomsooKim%20%20&height=200&fontSize=100)
+	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/beomsoo0)](https://hits.seeyoufarm.com) 
 	
   [![beomsoo's github stats](https://github-readme-stats.vercel.app/api?username=beomsoo0)](https://github.com/anuraghazra/github-readme-stats)
