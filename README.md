@@ -2,9 +2,6 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20BeomsooKim%20%20&height=200&fontSize=100)
   
-🌱 I’m currently learning development of iOS.  
-👯 I’m looking to collaborate on the application service
-  
   
 ![SWIFT Badge](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![XCODE Badge](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
