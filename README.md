@@ -5,6 +5,7 @@
   <a href="https://www.instagram.com/bumssooooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:bsbs7605@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bsbs7605@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
 **Self-Motivation**
 
 성장 마인드셋을 가지고 도전적인 목표 설정과 습득하고 성장하는 과정을 즐깁니다.
