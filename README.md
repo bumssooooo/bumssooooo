@@ -4,6 +4,12 @@
   <a href="https://www.linkedin.com/in/%EB%B2%94%EC%88%98-%EA%B9%80-66012b23a/" target="_blank"><img src="https://img.shields.io/badge/BeomsooKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/bumssooooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:bsbs7605@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bsbs7605@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ObjectiveC-A8B9CC?style=flat-square&logo=jaaaa&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 </p>
 
 **Self-Motivation**
