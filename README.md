@@ -5,7 +5,9 @@
   <a href="https://www.instagram.com/bumssooooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:bsbs7605@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
 <br/>
+
 **🛠 Tech Stacks**
 <p>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
@@ -14,7 +16,9 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </p>
+
 <br/>
+
 **Self-Motivation**
 
 성장 마인드셋을 가지고 도전적인 목표 설정과 습득하고 성장하는 과정을 즐깁니다.
