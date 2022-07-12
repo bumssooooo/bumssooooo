@@ -1,5 +1,6 @@
 **👋 매 순간 즐겁게 성장하는 iOS 개발자 김범수입니다.**
 <p>
+<a href="https://exclusive-golf-d92.notion.site/109691a59ed24872ac52123e5215d672" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white?style=flat"/></a>
   <a href="https://velog.io/@beomsoo0/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EB%B2%94%EC%88%98-%EA%B9%80-66012b23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/bumssooooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
