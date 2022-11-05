@@ -28,6 +28,6 @@
 
 명확하고 즐겁게 소통하기 위해 항상 노력하며 over 커뮤니케이션을 추구합니다.
 
-**Generalising Specialists**
+**Generalizing Specialists**
 
 넓은 식견과 깊은 전문성을 겸비한 T자형 개발자로서의 성장을 지향합니다.
