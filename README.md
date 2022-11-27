@@ -1,6 +1,6 @@
 **👋 매 순간 즐겁게 성장하는 iOS 개발자 김범수입니다.**
 <p>
-  <a href="https://exclusive-golf-d92.notion.site/9161b2ad364b46afb7bb04e4a1ffd12c?v=16b382460b534791892e323730427c3f" target="_blank"><img src="https://img.shields.io/badge/-TechBlog-black?logo=notion&logoColor=white?style=flat"/></a>
+  <a href="https://exclusive-golf-d92.notion.site/9161b2ad364b46afb7bb04e4a1ffd12c?v=16b382460b534791892e323730427c3f" target="_blank"><img src="https://img.shields.io/badge/-Tech Blog-black?logo=notion&logoColor=white?style=flat"/></a>
   <a href="https://www.linkedin.com/in/%EB%B2%94%EC%88%98-%EA%B9%80-66012b23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:bsbs7605@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
